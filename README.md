@@ -6,13 +6,13 @@ Testcase 1.
 
 Open website https://www.demoblaze.com/index.html.
 
-Verify signup with username/password : Appzen_QE/Appzen_QE will throw error message "This user already exist."
+Verify signup with username/password : DS_Test/DS_Test will throw error message "This user already exist."
 
 ======================================================================================================
 
 TestCase 2.
 
-Login with username/password: Appzen_QE/Appzen_QE
+Login with username/password: DS_Test/DS_Test
 
 Verify Login is successful
 
